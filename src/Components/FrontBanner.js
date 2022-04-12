@@ -7,8 +7,11 @@ function HeroSection() {
   return (
     <div className="hero-container">
       {/* <div className="background-img">jid</div> */}
-      <h1>ADVENTURE AWAITS</h1>
-      <p>What are you waiting for?</p>
+      <h1>Welcome to MYLIST</h1>
+      <p>
+        Make your own list of your favourite Anime, Series or Movies and Share
+        with your Friends
+      </p>
       <div className="hero-btns">
         <Button
           className="btns"
@@ -17,13 +20,13 @@ function HeroSection() {
         >
           GET STARTED
         </Button>
-        <Button
+        {/* <Button
           className="btns"
           buttonStyle="btn--primary"
           buttonSize="btn--large"
         >
           WATCH TRAILER <i className="far fa-play-circle" />
-        </Button>
+        </Button> */}
       </div>
     </div>
   );
