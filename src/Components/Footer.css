@@ -160,4 +160,37 @@
 }
 
 @media screen and (max-width: 768px) {
+  .footer-container {
+    padding: 2rem 0 1rem 0;
+  }
+
+  .footer-subscription {
+    margin-bottom: 14px;
+    padding: 14px;
+  }
+
+  .footer-subscription-heading {
+    margin-bottom: 10px;
+    font-size: 18px;
+  }
+
+  .footer-subscription-text {
+    margin-bottom: 10px;
+    font-size: 14px;
+  }
+
+  .footer-input {
+    padding: 4px 10px;
+    border-radius: 2px;
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
+
+  .footer-link-items {
+    margin: 10px;
+  }
+
+  .footer-link-items h2 {
+    margin-bottom: 10px;
+  }
 }
