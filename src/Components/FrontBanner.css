@@ -82,12 +82,12 @@ video {
     height: 15vh;
   }
   .hero-container > h1 {
-    font-size: 28px;
+    font-size: 22px;
     margin-top: -10px;
   }
 
   .hero-container > p {
-    font-size: 14px;
+    font-size: 12px;
     text-align: center;
     padding-left: 10px;
     padding-right: 10px;
